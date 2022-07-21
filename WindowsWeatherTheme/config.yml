@@ -1,0 +1,5 @@
+
+# Your current location
+location: "London"
+# Your key for openweather map
+OWM_key: "d56ee57d8c1aa09c6f23d0f705b8da1f"
